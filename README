@@ -1,0 +1,2 @@
+Repository of the <a href="http://www.astro.com/swisseph/swephinfo_e.htm">Swiss Ephemeris</a>, an astrological calculator, with a partial web/GET interface written in php.
+Specifically, this code is an unpacking of <a href="ftp://ftp.astro.com/pub/swisseph/swe_unix_src_2.07.01.tar.gz">vesion 2.07.01</a> of the ephemeris, without data files.
